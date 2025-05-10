@@ -1,6 +1,6 @@
 # Vanilla JS Mini Projects
 
-A collection of **13 mini-projects** and a **Grocery App** to practice core **JavaScript** skills using **Vanilla JavaScript**. Each project focuses on JavaScript logic, with HTML and CSS inspired from **freeCodeCamp.ord** on YouTube.
+A collection of **13 mini-projects** and a **Grocery App** to practice core **JavaScript** skills using **Vanilla JavaScript**. Each project focuses on JavaScript logic, with HTML and CSS inspired from **freeCodeCamp.org** on YouTube.
 
 ## 📁 Projects Included
 
