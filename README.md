@@ -5,15 +5,15 @@ A collection of **13 mini-projects** and a **Grocery App** to practice core **Ja
 ## 📁 Projects Included
 
 ### Mini Projects (1-13)
-1. ✅ Color Flipper  
-2. ✅ Counter  
-3. ✅ Review Carousel  
-4. ✅ Responsive Navbar  
-5. ✅ Sidebar Toggle  
-6. ✅ Modal Popup  
-7. ✅ FAQ/Accordion  
-8. ✅ Menu Filter  
-9. ✅ Video Play/Pause  
+01. ✅ Color Flipper  
+02. ✅ Counter  
+03. ✅ Review Carousel  
+04. ✅ Responsive Navbar  
+05. ✅ Sidebar Toggle  
+06. ✅ Modal Popup  
+07. ✅ FAQ/Accordion  
+08. ✅ Menu Filter  
+09. ✅ Video Play/Pause  
 10. ✅ Scroll Event  
 11. ✅ Tabs Component  
 12. ✅ Countdown Timer  
