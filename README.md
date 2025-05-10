@@ -31,4 +31,4 @@ A simple app that allows users to:
 Clone the repository and open any folder in your browser:
 
 ```bash
-git clone https://github.com/your-username/vanilla-js-projects
+git clone https://github.com/harshintech/vanilla-js-projects
