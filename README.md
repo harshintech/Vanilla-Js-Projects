@@ -1,6 +1,6 @@
 # Vanilla JS Mini Projects
 
-A collection of **13 mini-projects** and a **Grocery App** to practice core **JavaScript** skills using **Vanilla JavaScript**. Each project focuses on JavaScript logic, with HTML and CSS inspired from **freeCodeCamp.org** on YouTube.
+A collection of **15 mini-projects** and a **Grocery App** to practice core **JavaScript** skills using **Vanilla JavaScript**. Each project focuses on JavaScript logic, with HTML and CSS inspired from **freeCodeCamp.org** on YouTube.
 
 ## 📁 Projects Included
 
@@ -19,12 +19,17 @@ A collection of **13 mini-projects** and a **Grocery App** to practice core **Ja
 12. ✅ Countdown Timer  
 13. ✅ Lorem Ipsum Generator
 14. ✅ Grocery App
+15. ✅ Wheather App
 
-### Main Mini Project (14) – **Grocery App**
-A simple app that allows users to:
+### Main Mini Project (14,15) – **Grocery App, Wheather App**
+
+A Grocery App app that allows users to:
 - **Add**, **edit**, and **delete** grocery items.
 - **Clear** all items.
 - Uses **localStorage** to persist data across page refreshes.
+
+A Wheather App app that allows users to:
+- **Get Wheather Update By City Name**
 
 ## 🚀 How to Use
 
