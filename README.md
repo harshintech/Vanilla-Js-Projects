@@ -21,7 +21,7 @@ A collection of **15 mini-projects** and a **Grocery App** to practice core **Ja
 14. ✅ Grocery App
 15. ✅ Wheather App
 
-### Main Mini Project (14,15) – **Grocery App, Wheather App**
+### Main Mini Project = (14,15) => **Grocery App, Wheather App**
 
 A Grocery App app that allows users to:
 - **Add**, **edit**, and **delete** grocery items.
